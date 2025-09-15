@@ -146,7 +146,7 @@
 @media (max-width: 544px) {
   .wrapper {
     flex-direction: column;
-    padding: 8rem 4.5rem;
+    padding: 2rem 1.5rem;
   }
   .hero-box {
     max-width: 100%;
